@@ -1,8 +1,15 @@
 streamlit
 matplotlib
-pandas
 numpy
+optuna
+pandas
+plotly
+scipy
+seaborn
 scikit-learn
+statsmodels
+tensorflow
+
 
 
 
