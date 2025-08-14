@@ -9,7 +9,7 @@ scikit-learn
 statsmodels
 optuna
 tensorflow
-matplotlib-pyplot
+matplotlib
 streamlit
 pandas
 numpy
