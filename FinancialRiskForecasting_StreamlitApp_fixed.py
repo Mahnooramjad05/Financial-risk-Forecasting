@@ -136,13 +136,13 @@ st.write("="*70)
 
 # 📁 FILE PATHS - MODIFY THESE PATHS AS NEEDED
 FILE_PATHS = {
-    'aapl': '/content/AAPL_timeseries.csv',  # Paste your AAPL_timeseries.csv path here
-    'googl': '/content/GOOGL_timeseries.csv',  # Paste your GOOGL_timeseries.csv path here
-    'msft': '/content/MSFT_timeseries.csv',  # Paste your MSFT_timeseries.csv path here
-    'financial_cross': '/content/financial_risk_crosssectional.csv',  # Paste your financial_risk_crosssectional.csv path here
-    'financial_ts': '/content/financial_risk_timeseries.csv',  # Paste your financial_risk_timeseries.csv path here
-    'macro': '/content/macro_indicators.csv',  # Paste your macro_indicators.csv path here
-    'sentiment': '/content/sentiment_timeseries.csv'  # Paste your sentiment_timeseries.csv path here
+    'aapl': 'AAPL_timeseries.csv',  # Paste your AAPL_timeseries.csv path here
+    'googl': 'GOOGL_timeseries.csv',  # Paste your GOOGL_timeseries.csv path here
+    'msft': 'MSFT_timeseries.csv',  # Paste your MSFT_timeseries.csv path here
+    'financial_cross': 'financial_risk_crosssectional.csv',  # Paste your financial_risk_crosssectional.csv path here
+    'financial_ts': 'financial_risk_timeseries (1).csv',  # Paste your financial_risk_timeseries.csv path here
+    'macro': 'macro_indicators.csv',  # Paste your macro_indicators.csv path here
+    'sentiment': 'sentiment_timeseries.csv'  # Paste your sentiment_timeseries.csv path here
 }
 
 def load_datasets():
