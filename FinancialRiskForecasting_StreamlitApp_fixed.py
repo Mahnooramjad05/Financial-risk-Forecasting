@@ -40,7 +40,6 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Financial Risk Forecasting – EDA", layout="wide")
 st.title("Financial Risk Forecasting – EDA & Preprocessing")
-#st.set_option("deprecation.showPyplotGlobalUse", False)
 
 # Patch plt.show() for Streamlit
 _orig_plt_show = getattr(plt, "show", None)
