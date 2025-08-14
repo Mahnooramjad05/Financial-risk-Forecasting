@@ -1,14 +1,15 @@
 streamlit
 matplotlib
-numpy
-optuna
 pandas
+numpy
+seaborn
 plotly
 scipy
-seaborn
 scikit-learn
 statsmodels
+optuna
 tensorflow
+
 
 
 
