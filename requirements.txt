@@ -15,7 +15,7 @@ pandas
 numpy
 matplotlib
 scikit-learn
-
+streamlit==1.19.0
 
 
 
